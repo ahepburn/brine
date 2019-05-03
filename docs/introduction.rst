@@ -55,7 +55,7 @@ Type Transforms
 	or expanded into variables by using the appropriate syntax for that type.
 
 Type Coercion
-	Related to transforms, a facility ito coerce types is also provided.
+	Related to transforms, a facility to coerce types is also provided.
 	This allows more intelligent comparison of inputs which have been transformed
 	to a richer data type with those that have not been transformed (normally strings).
 	As an example, comparing a date/time value with a string will attempt to parse
